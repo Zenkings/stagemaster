@@ -1,0 +1,64 @@
+.text-news {
+  padding-top: 12px;
+  color: #4fd886;
+}
+.luminess-text-color {
+  color: #4fd886;
+}
+.luminess-bg-color {
+  background-color: #4fd886;
+}
+.fixed-width-time {
+  width: 170px;
+}
+
+.fixed-width-date {
+  width: 170px;
+}
+.style-val {
+  font-size: 50px;
+  font-weight: bold;
+  color: #4fd886;
+  padding: 45px 0 0px 0;
+  margin-bottom: 0;
+}
+.text-style {
+  font-weight: bold;
+}
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+  color: black;
+}
+.width-rect {
+  width: 1500px;
+}
+.nav-pills .nav-link-lot {
+  color: #333;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 2px;
+  border-radius:0.375rem;
+  padding: 8px;
+  text-decoration: none;
+}
+.nav-pills .nav-link-lot.active {
+  color: #fff;
+  background-color: #4fd886 !important;
+}
+
+.tab-pane.active {
+  border-top: 3px solid #4fd886;
+  border-bottom: 3px solid #111111; /* Bordure autour du contenu de l'onglet actif */
+}
+
+.progress-bar-custom {
+  background-color: #4fd886 !important; /* Définir la couleur de la barre de progression */
+  color: #111111 !important; /* Définir la couleur du texte à l'intérieur de la barre de progression */
+}
